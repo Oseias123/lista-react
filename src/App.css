@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(17, 224, 180);
+ }
+ .container{
+    max-width: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid rgb(2, 2, 2);
+    padding: 30px;
+    border-radius: 10px;
+    color: rgb(250, 1, 1);
+ }
